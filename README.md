@@ -1,0 +1,4 @@
+# ERME161.github.io
+tarea 1 - aplicaciones web
+#Ejercicio
+##Crear una pagina web con dos biografias de su eleccion. Tambien agregue un hipervinculo con las cuentas de Twitter y una imagen de la persona.
